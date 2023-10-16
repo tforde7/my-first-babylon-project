@@ -12,4 +12,5 @@ const scene = createScene()
 
 engine.runRenderLoop(function () {
     scene.render()
+    // test
 })
